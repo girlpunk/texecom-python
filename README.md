@@ -26,7 +26,7 @@ The COM-IP module can be configured in Wintex be navigating to the Comms page an
 Once this is configured, the COM-IP module will attempt to send data to the Montex software.
 The Montex software has the following configuration:
 
-![Settings Window](../master/Screenshots/C:\Users\jacob.mansfield\Projects\texecom-python\Screenshots\2016-01-18 11_53_19-Coms Setup.png)
+![Settings Window](../master/Screenshots/2016-01-18 11_53_19-Coms Setup.png)
 
 1. IP and Port that the Montex software listens on. The IP address cannot be modified, and must be changed in the OS. The port should be set the same as 6 in the Wintex software
 2. The connection method used to send data to the Texbase software, this should be set to TCP/IP
